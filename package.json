@@ -1,0 +1,10 @@
+{
+    "name": "realtime-slides-tut",
+    "version": "0.0.1",
+    "description": "Real-time slides tut with Socket.io",
+    "dependencies": {
+        "express": "^4.17.1",
+        "showdown": "^1.9.1",
+        "socket.io": "^4.1.3"
+    }
+}
